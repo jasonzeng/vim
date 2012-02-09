@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/jasonzeng/linux_hi2830/arch/mips/include'
+let g:netrw_dirhist_2='/home/jasonzeng/linux_hi2830/arch/mips/include/asm'
+let g:netrw_dirhist_3='/home/jasonzeng/linux_hi2830/arch/mips/include/asm/mach-hi2830'
+let g:netrw_dirhist_4='/home/jasonzeng/linux_hi2830/arch/mips/hi2830'
+let g:netrw_dirhist_5='/home/jasonzeng/work/src/4_Hi2830_Diriver'
+let g:netrw_dirhist_6='/home/jasonzeng/work/src/3_DAB_Linux_FuncTest'
+let g:netrw_dirhist_7='/home/jasonzeng/work/doc/HI3501_b'
